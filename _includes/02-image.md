@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img src="https://lh4.googleusercontent.com/yMNBuKVGigmRsCIWgJd2Jk9SxZWSs8cFJNVFBMSLyWBttjN4d2QoVogtwMt3uB5x6HI_DuMM544PutFPCJh3LaJsOIeA0qhIm6EgNctjUw0=w1280" width=100>
